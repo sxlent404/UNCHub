@@ -3,7 +3,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
     Name = "UNC Test Window",
     LoadingTitle = "UNC Tests",
-    LoadingSubtitle = "by Claude",
+    LoadingSubtitle = "by beary_v3",
     ConfigurationSaving = {
         Enabled = false
     }
